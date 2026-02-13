@@ -1,0 +1,1 @@
+[({'name': 'Ashish Naik', 'email': 'ashish.naik@example.com', 'password': 'Test@123'}, {'subject': 'Automation Testing', 'message': 'This is a test message for Playwright automation.', 'file_path': 'testdata/sample.txt'}, {'base_url': 'https://automationexercise.com', 'timeout': 30000})]

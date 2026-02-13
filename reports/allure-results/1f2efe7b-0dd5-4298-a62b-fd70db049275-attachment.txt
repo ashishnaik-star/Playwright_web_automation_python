@@ -1,0 +1,9 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://automationexercise.com/
+[TRACE] Tracing enabled - capturing screenshots and actions
+username=>>Albert
+ email ==>taragardner@example.net
+[RESULT] Test 'test_new_user_signup' result: [PASS]
+[SAVE] Trace saved: reports/traces/test_new_user_signup_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...

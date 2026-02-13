@@ -1,0 +1,1 @@
+{"name": "test_validate_autofetched_name_email", "status": "skipped", "start": 1770974616325, "stop": 1770974616325, "uuid": "38f03de0-a916-44f2-9905-f082a46a6369", "testCaseId": "eb5533ff27a908a18139ef091c2fceb6", "fullName": "Tests.test_register_user#test_validate_autofetched_name_email", "titlePath": ["Tests", "test_register_user.py"]}

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 10 11:01:55 IST 2026","Tue Feb 10 11:01:55 IST 2026","195","Tests","test_homepage_contents","","","","test_available_button_headings",""
+"passed","Tue Feb 10 10:55:36 IST 2026","Tue Feb 10 10:55:36 IST 2026","9","Tests","test_homepage_contents","","","","test_homepage_title",""
+"passed","Tue Feb 10 11:01:51 IST 2026","Tue Feb 10 11:01:51 IST 2026","11","Tests","test_homepage_contents","","","","test_homepage_title_url",""
+"passed","Tue Feb 10 10:45:29 IST 2026","Tue Feb 10 10:45:29 IST 2026","7","Tests","test_register_user","","","","test_homepage_title",""

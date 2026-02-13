@@ -1,0 +1,1 @@
+[('test1@example.com', 'abc123', 'valid'), ('test2@example.com', 'xyz123', 'invalid')]

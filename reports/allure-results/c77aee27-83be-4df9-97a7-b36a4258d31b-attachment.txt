@@ -1,0 +1,8 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: False (headed=True)
+[INFO] Navigating to: https://automationexercise.com/
+[TRACE] Tracing enabled - capturing screenshots and actions
+new funce ['gonzaleseric@example.com']
+[RESULT] Test 'test_login_valid_creds' result: [PASS]
+[SAVE] Trace saved: reports/traces/test_login_valid_creds_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...

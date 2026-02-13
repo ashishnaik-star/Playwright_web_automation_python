@@ -1,0 +1,85 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Tests",
+    "children" : [ {
+      "name" : "test_register_user",
+      "children" : [ {
+        "name" : "test_homepage_title",
+        "uid" : "eeb5c2dde28e2497",
+        "parentUid" : "ce8103c3fbd65862dd9137d3f42749d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1770700529736,
+          "stop" : 1770700529743,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce8103c3fbd65862dd9137d3f42749d0"
+    }, {
+      "name" : "test_homepage_contents",
+      "children" : [ {
+        "name" : "test_homepage_title",
+        "uid" : "b8d9ddf6fd354058",
+        "parentUid" : "98b5b625a3c4eb620e8c5b13a27c2010",
+        "status" : "passed",
+        "time" : {
+          "start" : 1770701136638,
+          "stop" : 1770701136647,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_homepage_title_url",
+        "uid" : "cdc640f0a8273020",
+        "parentUid" : "98b5b625a3c4eb620e8c5b13a27c2010",
+        "status" : "passed",
+        "time" : {
+          "start" : 1770701511839,
+          "stop" : 1770701511850,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_available_button_headings",
+        "uid" : "769a5755d7662484",
+        "parentUid" : "98b5b625a3c4eb620e8c5b13a27c2010",
+        "status" : "passed",
+        "time" : {
+          "start" : 1770701515706,
+          "stop" : 1770701515901,
+          "duration" : 195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98b5b625a3c4eb620e8c5b13a27c2010"
+    } ],
+    "uid" : "902c53be0755ed2c5e3076a8d5ce2e49"
+  } ]
+}

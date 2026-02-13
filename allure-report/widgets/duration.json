@@ -1,0 +1,41 @@
+[ {
+  "uid" : "769a5755d7662484",
+  "name" : "test_available_button_headings",
+  "time" : {
+    "start" : 1770701515706,
+    "stop" : 1770701515901,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d9ddf6fd354058",
+  "name" : "test_homepage_title",
+  "time" : {
+    "start" : 1770701136638,
+    "stop" : 1770701136647,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdc640f0a8273020",
+  "name" : "test_homepage_title_url",
+  "time" : {
+    "start" : 1770701511839,
+    "stop" : 1770701511850,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eeb5c2dde28e2497",
+  "name" : "test_homepage_title",
+  "time" : {
+    "start" : 1770700529736,
+    "stop" : 1770700529743,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
