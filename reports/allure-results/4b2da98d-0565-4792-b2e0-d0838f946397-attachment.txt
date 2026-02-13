@@ -1,0 +1,2 @@
+animal name => kangaroo
+is is an animal?  yes

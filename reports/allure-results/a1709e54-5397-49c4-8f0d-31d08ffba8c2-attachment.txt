@@ -1,0 +1,7 @@
+[OK] Starting browser: chromium
+[OK] Headless mode: True (headed=False)
+[INFO] Navigating to: https://automationexercise.com/
+[TRACE] Tracing enabled - capturing screenshots and actions
+[RESULT] Test 'test_contact_up' result: [PASS]
+[SAVE] Trace saved: reports/traces/test_contact_up_trace.zip
+[CLEANUP] Closing browser context and stopping Playwright...
