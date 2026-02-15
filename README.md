@@ -4,7 +4,7 @@ A scalable and CI-ready UI automation framework built using Playwright with Pyth
 
 🔗 Application Under Test: https://automationexercise.com/
 
-🔥 Key Features
+**🔥 Key Features**
 
 ✅ Playwright + Pytest automation framework
 
@@ -24,7 +24,7 @@ A scalable and CI-ready UI automation framework built using Playwright with Pyth
 
 ✅ Dependency management via requirements.txt
 
-📊 Reporting
+**📊 Reporting**
 
 Integrated with Allure
 
@@ -34,7 +34,7 @@ Screenshot attachments on failure
 
 CI-compatible artifact generation
 
-🔁 CI/CD Integration
+**🔁 CI/CD Integration**
 
 GitHub Actions workflow for automated test execution on push
 
@@ -48,9 +48,10 @@ Test execution
 
 Allure report generation
 
-🏗 Tech Stack
+**🏗 Tech Stack**
 
 Python | Playwright | Pytest | Pytest-xdist | Allure | GitHub Actions | Jenkins
+
 
 💼 What This Project Demonstrates
 
